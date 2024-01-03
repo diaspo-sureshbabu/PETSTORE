@@ -5,7 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   
     <build>
-		    <pluginManagement>
+		
+		  <pluginManagement>
 		  
 				  <plugins>
 					   <plugin>
@@ -19,20 +20,30 @@
 				            <!-- put your configurations here -->
 				          </configuration>
 				        </plugin>
+				        
+				        
 				         <plugin>
 				          <groupId>org.apache.maven.plugins</groupId>
 				          <artifactId>maven-compiler-plugin</artifactId>
 				          	<version>3.12.1</version>
 				          	<configuration>
-								<release>21</release>
-							</configuration>
-
-				          
-				        </plugin>	  
+								  <verbose>true</verbose>
+								<source>21</source>
+								<target>21</target>
+								<showWarnings></showWarnings>
+							</configuration>				          
+				        </plugin>
+				        <plugin>
+        						<groupId>org.apache.maven.plugins</groupId>
+        						<artifactId>maven-compiler-plugin</artifactId>
+      					</plugin>	  
 				  </plugins>
-				    
+				        
+				       
 		    
 		    </pluginManagement>
+		
+		  
     </build>
     
     
