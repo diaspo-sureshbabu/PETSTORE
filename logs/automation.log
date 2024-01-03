@@ -94,3 +94,51 @@
 19:04:42 304[main] INFO  api.test.UserTests2 -  user is updated
 19:04:42 306[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
 19:04:44 650[main] INFO  api.test.UserTests2 -  User is deleted
+10:37:13 069[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+10:37:16 028[main] INFO  api.test.UserTests2 -  User Creation completed
+10:37:16 039[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+10:37:17 134[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+10:37:17 139[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+10:37:19 449[main] INFO  api.test.UserTests2 -  user is updated
+10:37:19 454[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+10:37:21 587[main] INFO  api.test.UserTests2 -  User is deleted
+10:38:06 845[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+10:38:09 663[main] INFO  api.test.UserTests2 -  User Creation completed
+10:38:09 673[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+10:38:10 772[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+10:38:10 775[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+10:38:13 073[main] INFO  api.test.UserTests2 -  user is updated
+10:38:13 076[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+10:38:15 381[main] INFO  api.test.UserTests2 -  User is deleted
+10:46:57 160[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+10:47:00 394[main] INFO  api.test.UserTests2 -  User Creation completed
+10:47:00 404[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+10:47:01 540[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+10:47:01 544[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+10:47:03 664[main] INFO  api.test.UserTests2 -  user is updated
+10:47:03 666[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+10:47:05 956[main] INFO  api.test.UserTests2 -  User is deleted
+11:19:18 275[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+11:19:22 108[main] INFO  api.test.UserTests2 -  User Creation completed
+11:19:22 120[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+11:19:23 310[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+11:19:23 315[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+11:19:25 507[main] INFO  api.test.UserTests2 -  user is updated
+11:19:25 513[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+11:19:27 699[main] INFO  api.test.UserTests2 -  User is deleted
+11:20:36 010[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+11:20:38 829[main] INFO  api.test.UserTests2 -  User Creation completed
+11:20:38 837[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+11:20:39 937[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+11:20:39 940[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+11:20:42 158[main] INFO  api.test.UserTests2 -  user is updated
+11:20:42 160[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+11:20:44 417[main] INFO  api.test.UserTests2 -  User is deleted
+11:22:11 289[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+11:22:13 934[main] INFO  api.test.UserTests2 -  User Creation completed
+11:22:13 945[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+11:22:15 127[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+11:22:15 129[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+11:22:17 357[main] INFO  api.test.UserTests2 -  user is updated
+11:22:17 359[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+11:22:19 628[main] INFO  api.test.UserTests2 -  User is deleted
