@@ -142,3 +142,27 @@
 11:22:17 357[main] INFO  api.test.UserTests2 -  user is updated
 11:22:17 359[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
 11:22:19 628[main] INFO  api.test.UserTests2 -  User is deleted
+13:52:13 327[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+13:52:17 092[main] INFO  api.test.UserTests2 -  User Creation completed
+13:52:17 105[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+13:52:18 611[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+13:52:18 614[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+13:52:21 466[main] INFO  api.test.UserTests2 -  user is updated
+13:52:21 469[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+13:52:24 224[main] INFO  api.test.UserTests2 -  User is deleted
+13:53:59 384[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+13:54:03 117[main] INFO  api.test.UserTests2 -  User Creation completed
+13:54:03 130[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+13:54:04 605[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+13:54:04 607[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+13:54:07 748[main] INFO  api.test.UserTests2 -  user is updated
+13:54:07 749[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+13:54:10 674[main] INFO  api.test.UserTests2 -  User is deleted
+14:01:20 682[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+14:01:24 440[main] INFO  api.test.UserTests2 -  User Creation completed
+14:01:24 453[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+14:01:26 311[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+14:01:26 312[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+14:01:29 241[main] INFO  api.test.UserTests2 -  user is updated
+14:01:29 243[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+14:01:32 432[main] INFO  api.test.UserTests2 -  User is deleted
