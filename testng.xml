@@ -7,7 +7,8 @@
   
   <test thread-count="5" name="PetTest">
     <classes>       
-      		<class name="api.test.UserTests2"/>
+      	<!--  	<class name="api.test.UserTests2"/> -->
+      		<class name="api.test.PetStoreOrders"/>
      
     </classes>
   </test> <!-- Test -->

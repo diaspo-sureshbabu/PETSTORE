@@ -278,3 +278,256 @@
 22:04:22 095[main] INFO  api.test.UserTests2 -  user is updated
 22:04:22 095[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
 22:04:24 643[main] INFO  api.test.UserTests2 -  User is deleted
+15:32:39 588[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+15:32:42 440[main] INFO  api.test.UserTests2 -  User Creation completed
+15:32:42 440[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"1594873248"}
+15:32:42 451[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+15:32:43 634[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+15:32:43 634[main] INFO  api.test.UserTests2 - {"id":1594873248,"username":"risa.weissnat","email":"noah.grant@yahoo.com","password":"r5mgpbjoqa4inr","phone":"701.792.0113","userStatus":0}
+15:32:43 638[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+15:32:45 879[main] INFO  api.test.UserTests2 -  user is updated
+15:32:45 884[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+15:32:48 181[main] INFO  api.test.UserTests2 -  User is deleted
+16:50:21 950[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+16:50:24 671[main] INFO  api.test.UserTests2 -  User Creation completed
+16:50:24 672[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"284686302"}
+16:50:24 688[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+16:50:25 904[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+16:50:25 904[main] INFO  api.test.UserTests2 - {"id":284686302,"username":"cherri.morar","email":"alla.bergstrom@hotmail.com","password":"hnvz12iy6l3naa6","phone":"(750) 971-5607","userStatus":0}
+16:50:25 908[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+16:50:27 118[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"284686302"}
+16:50:28 356[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+16:50:30 742[main] INFO  api.test.UserTests2 -  User is deleted
+17:32:41 596[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+17:32:44 626[main] INFO  api.test.UserTests2 -  User Creation completed
+17:32:44 627[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"802243390"}
+17:32:44 633[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+17:32:45 773[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+17:32:45 773[main] INFO  api.test.UserTests2 - {"id":802243390,"username":"yong.kovacek","email":"freeman.kozey@gmail.com","password":"a9cxti3q48gdn","phone":"539-472-0074","userStatus":0}
+17:32:45 776[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+17:32:46 909[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"802243390"}
+17:32:48 016[main] INFO  api.test.UserTests2 - yong.kovacekuser udpated{"id":802243390,"username":"yong.kovacek","email":"wayne.senger@hotmail.com","password":"a9cxti3q48gdn","phone":"539-472-0074","userStatus":0}
+17:32:48 019[main] INFO  api.test.UserTests2 -  user is updated
+17:32:48 024[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+17:32:50 329[main] INFO  api.test.UserTests2 -  User is deleted
+17:35:39 144[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+17:35:42 002[main] INFO  api.test.UserTests2 -  User Creation completed
+17:35:42 003[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"802243390"}
+17:35:42 010[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+17:35:43 180[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+17:35:43 181[main] INFO  api.test.UserTests2 - {"id":802243390,"username":"myong.raynor","email":"sammy.schuster@yahoo.com","password":"ott1wrhtw7nmusa","phone":"867.466.4182","userStatus":0}
+17:35:43 189[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+17:35:44 445[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"802243390"}
+17:35:45 565[main] INFO  api.test.UserTests2 - oswaldo.jacobs@yahoo.com user details udpated {"id":802243390,"username":"myong.raynor","email":"oswaldo.jacobs@yahoo.com","password":"ott1wrhtw7nmusa","phone":"867.466.4182","userStatus":0}
+17:35:45 567[main] INFO  api.test.UserTests2 -  user is updated
+17:35:45 572[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+17:35:47 818[main] INFO  api.test.UserTests2 -  User is deleted
+18:14:43 743[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+18:14:47 424[main] INFO  api.test.UserTests2 -  User Creation completed
+18:14:47 425[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"802243390"}
+18:14:47 437[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+18:14:48 553[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+18:14:48 553[main] INFO  api.test.UserTests2 - {"id":802243390,"username":"brendan.kohler","email":"colton.hagenes@yahoo.com","password":"ug4xrr9dkaz","phone":"(928) 187-6162","userStatus":0}
+18:14:48 556[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+18:14:49 658[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"802243390"}
+18:14:50 754[main] INFO  api.test.UserTests2 - melida.witting@hotmail.com user details udpated {"id":802243390,"username":"brendan.kohler","email":"melida.witting@hotmail.com","password":"ug4xrr9dkaz","phone":"(928) 187-6162","userStatus":0}
+18:14:50 758[main] INFO  api.test.UserTests2 -  user is updated
+18:14:50 760[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+18:14:52 952[main] INFO  api.test.UserTests2 -  User is deleted
+18:25:43 557[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+18:25:47 277[main] INFO  api.test.UserTests2 -  User Creation completed
+18:25:47 278[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"1801942731"}
+18:25:47 286[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+18:25:48 409[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+18:25:48 410[main] INFO  api.test.UserTests2 - {"id":1801942731,"username":"maynard.gleason","email":"dewitt.windler@yahoo.com","password":"iv96o0hr0","phone":"973-130-0564","userStatus":0}
+18:25:48 412[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+18:25:49 498[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"1801942731"}
+18:25:50 602[main] INFO  api.test.UserTests2 - rigoberto.stracke@hotmail.com user details udpated {"id":1801942731,"username":"maynard.gleason","email":"rigoberto.stracke@hotmail.com","password":"iv96o0hr0","phone":"973-130-0564","userStatus":0}
+18:25:50 603[main] INFO  api.test.UserTests2 -  user is updated
+18:25:50 606[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+18:25:52 776[main] INFO  api.test.UserTests2 -  User is deleted
+13:50:37 559[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+13:50:39 652[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+13:50:39 727[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+13:50:39 757[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+13:54:54 426[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+13:54:55 969[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+13:54:56 006[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+13:54:56 025[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+13:56:03 073[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+13:56:04 485[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+13:56:04 524[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+13:56:04 545[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+14:02:58 565[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+14:03:00 248[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+14:03:00 290[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+14:03:00 311[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+22:49:45 562[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+22:49:48 318[main] INFO  api.test.UserTests2 -  User Creation completed
+22:49:48 318[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"1801942731"}
+22:49:48 328[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+22:49:49 620[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+22:49:49 621[main] INFO  api.test.UserTests2 - {"id":1801942731,"username":"garth.white","email":"lorenzo.willms@hotmail.com","password":"qgjbkv1fjxtcean","phone":"(979) 057-8862","userStatus":0}
+22:49:49 624[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+22:49:50 775[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"1801942731"}
+22:49:51 983[main] INFO  api.test.UserTests2 - art.reichel@gmail.com user details udpated {"id":1801942731,"username":"garth.white","email":"art.reichel@gmail.com","password":"qgjbkv1fjxtcean","phone":"(979) 057-8862","userStatus":0}
+22:49:51 985[main] INFO  api.test.UserTests2 -  user is updated
+22:49:51 990[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+22:49:54 307[main] INFO  api.test.UserTests2 -  User is deleted
+22:58:03 987[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+22:58:06 749[main] INFO  api.test.UserTests2 -  User Creation completed
+22:58:06 749[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"394771492"}
+22:58:06 756[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+22:58:07 932[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+22:58:07 933[main] INFO  api.test.UserTests2 - {"id":394771492,"username":"may.hansen","email":"gerardo.schumm@yahoo.com","password":"7nx8z2f85tx4","phone":"365-494-7426","userStatus":0}
+22:58:07 934[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+22:58:09 124[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"394771492"}
+22:58:10 416[main] INFO  api.test.UserTests2 - trudy.kreiger@hotmail.com user details udpated {"id":394771492,"username":"may.hansen","email":"trudy.kreiger@hotmail.com","password":"7nx8z2f85tx4","phone":"365-494-7426","userStatus":0}
+22:58:10 419[main] INFO  api.test.UserTests2 -  user is updated
+22:58:10 422[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+22:58:12 680[main] INFO  api.test.UserTests2 -  User is deleted
+23:00:42 573[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+23:00:45 178[main] INFO  api.test.UserTests2 -  User Creation completed
+23:00:45 179[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"394771492"}
+23:00:45 188[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+23:00:46 409[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+23:00:46 409[main] INFO  api.test.UserTests2 - {"id":394771492,"username":"selena.strosin","email":"alfred.halvorson@gmail.com","password":"k5n0bjxv","phone":"1-961-142-5286","userStatus":0}
+23:00:46 411[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+23:00:47 515[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"394771492"}
+23:00:48 663[main] INFO  api.test.UserTests2 - colleen.rice@gmail.com user details udpated {"id":394771492,"username":"selena.strosin","email":"colleen.rice@gmail.com","password":"k5n0bjxv","phone":"1-961-142-5286","userStatus":0}
+23:00:48 666[main] INFO  api.test.UserTests2 -  user is updated
+23:00:48 668[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+23:00:50 901[main] INFO  api.test.UserTests2 -  User is deleted
+23:34:30 343[main] INFO  api.test.UserTests2 -  ********** Starting of User Creation 
+23:34:34 259[main] INFO  api.test.UserTests2 -  User Creation completed
+23:34:34 259[main] INFO  api.test.UserTests2 - {"code":200,"type":"unknown","message":"1306246648"}
+23:34:34 284[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+23:34:35 435[main] INFO  api.test.UserTests2 -  Getting user details by User Name completed
+23:34:35 435[main] INFO  api.test.UserTests2 - {"id":1306246648,"username":"rodrick.fisher","email":"aisha.stiedemann@yahoo.com","password":"9o7b93o48rd","phone":"544.292.4651","userStatus":0}
+23:34:35 441[main] INFO  api.test.UserTests2 -  Updating user details by User Name
+23:34:36 516[main] INFO  api.test.UserTests2 - user details update{"code":200,"type":"unknown","message":"1306246648"}
+23:34:37 631[main] INFO  api.test.UserTests2 - christoper.huels@gmail.com user details udpated {"id":1306246648,"username":"rodrick.fisher","email":"christoper.huels@gmail.com","password":"9o7b93o48rd","phone":"544.292.4651","userStatus":0}
+23:34:37 633[main] INFO  api.test.UserTests2 -  user is updated
+23:34:37 638[main] INFO  api.test.UserTests2 -  Deleting user details by User Name
+23:34:39 889[main] INFO  api.test.UserTests2 -  User is deleted
+23:34:39 898[main] INFO  api.test.PetTest -  ********** Starting of User Creation 
+23:36:52 030[main] INFO  api.test.PetTest -  ********** Starting of User Creation 
+23:42:19 041[main] INFO  api.test.PetTest -  ********** Starting of User Creation 
+23:47:46 398[main] INFO  api.test.PetTest -  ********** Starting of User Creation 
+23:58:51 634[main] INFO  api.test.PetTest -  ********** Starting of User Creation 
+00:01:13 821[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:01:17 542[main] INFO  api.test.PetTest -  Pet Creation completed
+00:01:17 543[main] INFO  api.test.PetTest - {"id":9223372036854764145,"photoUrls":[],"tags":[]}
+00:07:26 372[main] INFO  api.test.UserTests2 -  Getting user details by User Name
+00:11:24 637[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:11:28 554[main] INFO  api.test.PetTest -  Pet Creation completed
+00:11:28 555[main] INFO  api.test.PetTest - {"id":9223372036854764293,"photoUrls":[],"tags":[]}
+00:11:28 582[main] INFO  api.test.PetTest -  Getting pet details by PET Id
+00:14:18 667[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:14:22 659[main] INFO  api.test.PetTest -  Pet Creation completed
+00:14:22 659[main] INFO  api.test.PetTest - {"id":9223372036854764335,"photoUrls":[],"tags":[]}
+00:14:22 679[main] INFO  api.test.PetTest -  Getting pet details by PET Id
+00:19:02 762[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:19:06 712[main] INFO  api.test.PetTest -  Pet Creation completed
+00:19:06 713[main] INFO  api.test.PetTest - {"id":9223372036854764415,"photoUrls":[],"tags":[]}
+00:19:06 739[main] INFO  api.test.PetTest -  Getting pet details by PET Id1134013833
+00:23:42 533[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:23:46 394[main] INFO  api.test.PetTest -  Pet Creation completed1134013833
+00:23:46 395[main] INFO  api.test.PetTest - {"id":9223372036854764483,"photoUrls":[],"tags":[]}
+00:23:46 420[main] INFO  api.test.PetTest -  Getting pet details by PET Id1134013833
+00:29:10 392[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:29:14 760[main] INFO  api.test.PetTest -  Pet Creation completed1134013833
+00:29:14 761[main] INFO  api.test.PetTest - {"id":9223372036854764560,"photoUrls":[],"tags":[]}
+00:29:14 788[main] INFO  api.test.PetTest -  Getting pet details by PET Id1134013833
+00:33:20 645[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+00:33:24 376[main] INFO  api.test.PetTest -  Pet Creation completed1134013833
+00:33:24 377[main] INFO  api.test.PetTest - {"id":9223372036854775807,"photoUrls":[],"tags":[]}
+00:33:24 404[main] INFO  api.test.PetTest -  Getting pet details by PET Id1134013833
+11:01:45 821[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+11:01:48 591[main] INFO  api.test.PetTest -  Pet Creation completed1110031167
+11:01:48 591[main] INFO  api.test.PetTest - response body{"id":9223372016900014575,"photoUrls":[],"tags":[]}
+11:01:48 600[main] INFO  api.test.PetTest -  Getting pet details by PET Id1110031167
+11:06:48 061[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+11:06:50 699[main] INFO  api.test.PetTest -  Pet Creation completed1110031167
+11:06:50 699[main] INFO  api.test.PetTest - response body1{"id":9223372016900014658,"photoUrls":[],"tags":[]}
+11:06:50 699[main] INFO  api.test.PetTest - response id : 922337201690001465
+11:06:50 708[main] INFO  api.test.PetTest -  Getting pet details by PET Id1110031167
+11:12:32 359[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+11:12:35 231[main] INFO  api.test.PetTest -  Pet Creation completed1110031167
+11:12:35 231[main] INFO  api.test.PetTest - response body1{"id":9223372016900014743,"photoUrls":[],"tags":[]}
+11:12:35 232[main] INFO  api.test.PetTest - response pet id : 9223372016900014743
+16:12:24 168[main] INFO  api.test.PetTest -  ********** Starting of PET Creation 
+16:12:27 330[main] INFO  api.test.PetTest -  Pet Creation completed1134013833
+16:12:27 331[main] INFO  api.test.PetTest - response body1{"id":9223372036854250398,"photoUrls":[],"tags":[]}
+16:12:27 331[main] INFO  api.test.PetTest - response pet id : 9223372036854250398
+07:34:59 334[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+10:42:42 074[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+10:50:58 921[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:16:02 679[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:17:09 220[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:17:13 354[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:17:13 356[main] INFO  api.test.PetStoreOrders - {"id":1207608476,"petId":0,"quantity":1207608476,"status":"placed","complete":true}
+11:47:17 613[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:47:20 549[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:47:20 549[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":1110031167,"status":"placed","complete":true}
+11:47:20 560[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:49:20 250[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:49:23 176[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:49:23 177[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":1110031167,"status":"placed","complete":true}
+11:49:23 198[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:53:09 814[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:53:13 942[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:53:13 942[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":100,"status":"placed","complete":true}
+11:53:13 952[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 1110031167
+11:53:15 363[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:53:15 363[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":100,"status":"placed","complete":true}
+11:54:35 603[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+11:54:38 529[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+11:54:38 530[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":100,"status":"placed","complete":true}
+11:54:38 539[main] INFO  api.test.PetStoreOrders -  ********** Starting of order details  1110031167
+11:54:39 734[main] INFO  api.test.PetStoreOrders - Viw order details completed
+11:54:39 735[main] INFO  api.test.PetStoreOrders - {"id":1110031167,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:36:38 058[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+12:36:41 116[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+12:36:41 116[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:36:41 131[main] INFO  api.test.PetStoreOrders -  ********** Starting of order details  1456339771
+12:36:42 315[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:36:42 316[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:36:42 322[main] INFO  api.test.PetStoreOrders -  ********** Starting of get inventory details  1456339771
+12:39:13 043[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+12:39:16 038[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+12:39:16 040[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:39:16 047[main] INFO  api.test.PetStoreOrders -  ********** Starting of order details  1456339771
+12:39:17 282[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:39:17 282[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:39:17 286[main] INFO  api.test.PetStoreOrders -  ********** Starting of get inventory details  1456339771
+12:39:18 702[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:39:18 702[main] INFO  api.test.PetStoreOrders - <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+12:41:17 206[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+12:41:20 493[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+12:41:20 496[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:41:20 509[main] INFO  api.test.PetStoreOrders -  ********** Starting of order details  1456339771
+12:41:21 675[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:41:21 676[main] INFO  api.test.PetStoreOrders - {"id":1456339771,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:41:21 680[main] INFO  api.test.PetStoreOrders -  ********** Starting of get inventory details  1456339771
+12:41:22 749[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:41:22 749[main] INFO  api.test.PetStoreOrders - {"sold":8,"string":708,"good pet":1,"do not touch":1,"pending":6,"available":261,"yebanat":1,"Not Available":1,"Available":1}
+12:51:50 476[main] INFO  api.test.PetStoreOrders -  ********** Starting of User Creation 
+12:51:53 802[main] INFO  api.test.PetStoreOrders -  Pet order Creation completed
+12:51:53 802[main] INFO  api.test.PetStoreOrders - {"id":730923082,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:51:53 818[main] INFO  api.test.PetStoreOrders -  ********** Starting of order details  730923082
+12:51:54 963[main] INFO  api.test.PetStoreOrders - Viw order details completed
+12:51:54 964[main] INFO  api.test.PetStoreOrders - {"id":730923082,"petId":0,"quantity":100,"status":"placed","complete":true}
+12:51:54 975[main] INFO  api.test.PetStoreOrders -  ********** Starting of get inventory details  730923082
+12:51:56 139[main] INFO  api.test.PetStoreOrders - Viw inventory details completed
+12:51:56 140[main] INFO  api.test.PetStoreOrders - {"sold":4,"placed":3,"string":709,"good pet":1,"do not touch":1,"pending":5,"available":265,"Available":1}
+12:51:56 144[main] INFO  api.test.PetStoreOrders -  ********** Starting of deleting order details  730923082
+12:51:57 299[main] INFO  api.test.PetStoreOrders - Deleting order id : 730923082details completed 
+12:51:57 299[main] INFO  api.test.PetStoreOrders - {"code":200,"type":"unknown","message":"730923082"}

@@ -20,7 +20,8 @@ public class DDTests {
 //		userPayload.setId(faker.idNumber().hashCode());
 //	}
 	
-	@Test(priority=1, dataProvider = "Data",dataProviderClass = Dataproviders.class)
+	@Test(priority=1, dataProvider = "Data",
+			dataProviderClass = Dataproviders.class)
 	public void testPostuser(String	UserID,String username,String	firstName,String lastName,String emailAddress,String password,
 			String phone) 
 	{
@@ -33,7 +34,7 @@ public class DDTests {
 		userPayload.setEmail(emailAddress);
 		userPayload.setPhone(phone);
 		userPayload.setUserstatus(0);
-		
+		//listing user details
 		
 		Response response = UserEndpoints.CreateUser(userPayload);
 		response.then().log().all();
