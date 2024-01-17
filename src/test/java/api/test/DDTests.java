@@ -34,7 +34,7 @@ public class DDTests {
 		userPayload.setEmail(emailAddress);
 		userPayload.setPhone(phone);
 		userPayload.setUserstatus(0);
-		//listing user details
+		//listing user details updated
 		
 		Response response = UserEndpoints.CreateUser(userPayload);
 		response.then().log().all();
